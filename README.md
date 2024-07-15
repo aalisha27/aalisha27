@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alisa Rani Nanda
+- 👋 Hi, I’m Alisha Rani Nanda
 - 👀 I'm keen to delve deeper into database management and streamline its optimization for peak performance.
 - 🌱 I’m currently learning Data Science
 - 🌮 Ask me about my enthusiasm for integrating technology and the culinary art of making the perfect taco.
